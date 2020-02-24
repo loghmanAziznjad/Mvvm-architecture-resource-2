@@ -20,5 +20,7 @@ public class MainActivity extends AppCompatActivity {
         UserViewModel userViewModel=new UserViewModel(this);
         activityMainBinding.setUser(userViewModel);
 
+
+
     }
 }
